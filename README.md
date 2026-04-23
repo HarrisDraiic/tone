@@ -2,7 +2,7 @@
 
 ![Antigravity Maintained](https://img.shields.io/badge/Antigravity-Maintained-blueviolet)
 ![Project Status](https://img.shields.io/badge/Status-Alpha_Refinement-orange)
-![Version](https://img.shields.io/badge/Version-0.2.0-blue)
+![Version](https://img.shields.io/badge/Version-0.2.1-blue)
 
 **TONE** (Triggered Output Notification Engine) is a sophisticated, real-time log monitoring tool designed to bridge the gap between static log files and immediate situational awareness. Whether you're tracking system errors, application events, or game logs, TONE allows you to define complex patterns that trigger custom audio alerts or Text-to-Speech (TTS) notifications.
 
